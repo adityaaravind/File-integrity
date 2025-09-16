@@ -29,7 +29,7 @@ Think of it like taking fingerprints for a bunch of homework assignments on Day�
 
 That’s it!  You don’t need to write any code or install anything beyond the app itself.
 
-## 🎓 Example for a high school student
+## 🎓 Example
 
 Let’s say you have two homework essays saved as `essay1.txt` and `essay2.txt`.
 
